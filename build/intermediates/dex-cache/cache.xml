@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hp/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/hp/AndroidStudioProjects/project0.3/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-c4682af7e47b93bdff99a4649929953e9c9ec970.jar" />
+    </item>
+    <item
+        jar="/Users/hp/AndroidStudioProjects/project0.3/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/hp/AndroidStudioProjects/project0.3/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-8c3aea09e447f314cdef36943a8a10d9671b7c07.jar" />
+    </item>
+    <item
+        jar="/Users/hp/AndroidStudioProjects/project0.3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/hp/AndroidStudioProjects/project0.3/app/build/intermediates/pre-dexed/debug/classes-6c6f91e31c2cfc5339175422f1c1271ad0e94f37.jar" />
+    </item>
+    <item
+        jar="/Users/hp/AndroidStudioProjects/project0.3/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/hp/AndroidStudioProjects/project0.3/app/build/intermediates/pre-dexed/debug/classes-5b6608b6b07ea0bbb709205ef951e77cd0fb127d.jar" />
+    </item>
+    <item
+        jar="/Users/hp/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/hp/AndroidStudioProjects/project0.3/app/build/intermediates/pre-dexed/debug/butterknife-7.0.1-3f1d935d29683da3eb6510843d9a27ce79042b7c.jar" />
+    </item>
+
+</items>
